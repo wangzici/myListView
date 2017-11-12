@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="sound">Sound</string>
+    <string name="display">Display</string>
+    <string name="sound_on">打开</string>
+    <string name="sound_off">关闭</string>
+</resources>
